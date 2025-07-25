@@ -1,0 +1,3 @@
+[submodule "extra/loss_landscape"]
+	path = extra/loss_landscape
+	url = https://github.com/tomgoldstein/loss-landscape
